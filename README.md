@@ -1,1 +1,1 @@
-# Frontend-Calculator-Project
+A fully functional calculator using HTML, CSS, and JavaScript only
